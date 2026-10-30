@@ -16,7 +16,5 @@ def division(a, b):
     return a / b
 
 
-
-
 def puissance(a, b):
     return a ** b
